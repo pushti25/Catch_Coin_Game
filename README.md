@@ -70,6 +70,7 @@ Catch_Coin_Game/
 ├── cfg.py                      # Game configuration and resource paths
 ├── game.py                     # Main game program
 ├── highest.rec                 # Highest score record
+├── requirements.txt            # library to install
 └── README.md                   # Project documentation
 ```
 
